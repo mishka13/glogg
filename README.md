@@ -1,4 +1,4 @@
-
+ 
 glogg - the fast, smart log explorer
 =====================================
 
